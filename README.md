@@ -7,15 +7,16 @@
 </h1>
 <!-- START -->
 
-<!-- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shaeinst&count_private=true&show_icons=true&theme=dark" align="right" width="50%" /> -->
-
 <!-- - I had no life
 - I have no life
 - I will have no life -->
 
 <!-- contribution snake -->
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/shaeinst/shaeinst/output/github-contribution-grid-snake.svg" />
+    
+<!-- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AlixShahid&count_private=true&show_icons=true&theme=dark" /> -->
+<!--     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/AlixShahid/AlixShahid/output/github-contribution-grid-snake.svg" /> -->
+<img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/AlixShahid/AlixShahid/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <br>
 <p  align="center">
